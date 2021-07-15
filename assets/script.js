@@ -1,5 +1,5 @@
 //DOM Elements
-const passwordEl = document.getElementById('Password');
+const passwordEl = document.getElementById('password');
 const lengthEl = document.getElementById('length');
 const uppercaseEl = document.getElementById('uppercase');
 const lowercaseEl = document.getElementById('lowercase');
